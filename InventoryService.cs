@@ -1,6 +1,6 @@
 using System;
 
-namespace SiyaLangAngGustoKo.Services
+namespace SiyaLangAngGustoKo.Services;
 {
     public class InventoryService
     {
